@@ -12,6 +12,9 @@
 
 	Description
 	This pseudocode creates a new array by duplicating the contents of `nums` and appending them together in order.
+
+	Time Complexity: O(n)
+	Space Complexity: O(n)
 */
 
 #include <iostream>
