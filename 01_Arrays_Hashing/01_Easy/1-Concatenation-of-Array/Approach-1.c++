@@ -1,5 +1,5 @@
 /*
-	Pseudocode - Concatenation of Array
+	Concatenation of Array
 
 	Steps
 

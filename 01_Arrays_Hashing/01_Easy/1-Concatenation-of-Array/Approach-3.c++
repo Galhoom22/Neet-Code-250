@@ -1,5 +1,5 @@
 /*
-    Pseudocode - Concatenation of Array (Using `std::copy`)
+    Concatenation of Array (Using `std::copy`)
 
     Steps
 
