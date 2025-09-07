@@ -1,8 +1,7 @@
 /*
-    Concatenation of Array
+    Concatenation of Array: https://neetcode.io/problems/concatenation-of-array?list=neetcode250
 
     Steps
-
     1. Let `n` be the length of `nums`
     2. Create an array `ans` of size `2 * n`
     3. For `i` from `0` to `n - 1`:

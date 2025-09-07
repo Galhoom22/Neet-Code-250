@@ -1,5 +1,5 @@
 /* 
-    Contains Duplicate
+    Contains Duplicate: https://neetcode.io/problems/duplicate-integer?list=neetcode250
 
     Steps
     1. Start with the first element `i`

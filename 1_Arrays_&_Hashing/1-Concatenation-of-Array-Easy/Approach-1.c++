@@ -1,8 +1,7 @@
 /*
-	Concatenation of Array
+	Concatenation of Array: https://neetcode.io/problems/concatenation-of-array?list=neetcode250
 
 	Steps
-
 	1. Create an empty array called `ans`
 	2. For each element in `nums`:
 		- Add it to `ans`

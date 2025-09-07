@@ -1,8 +1,7 @@
 /*
-    Concatenation of Array (Using `std::copy`)
+    Concatenation of Array: https://neetcode.io/problems/concatenation-of-array?list=neetcode250
 
     Steps
-
     1. Let `n` be the length of `nums`
     2. Create an array `ans` of size `2 * n`
     3. Use `copy(nums.begin(), nums.end(), ans.begin())` to copy the first part
