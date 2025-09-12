@@ -1,5 +1,7 @@
 /*
     Contains Duplicate: https://neetcode.io/problems/duplicate-integer?list=neetcode250
+
+	* This is the optimized approach
     
 	Steps
 	1. sort the array nums
@@ -13,6 +15,10 @@
 
     Time Complexity: O(n log n)
     Space Complexity: O(log n)
+
+	Example:
+	Input: nums = [1,2,3,1]
+	Output: true
 */
 
 #include <iostream>

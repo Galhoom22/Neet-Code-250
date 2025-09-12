@@ -1,6 +1,8 @@
 /*
     Concatenation of Array: https://neetcode.io/problems/concatenation-of-array?list=neetcode250
 
+    * This is the optimal approach
+
     Steps
     1. Let `n` be the length of `nums`
     2. Create an array `ans` of size `2 * n`
@@ -16,6 +18,10 @@
 
     Time Complexity: O(n)
     Space Complexity: O(n)
+
+    Example:
+    Input: nums = [1,4,1,2]
+    Output: [1,4,1,2,1,4,1,2]
 */
 
 #include <iostream>

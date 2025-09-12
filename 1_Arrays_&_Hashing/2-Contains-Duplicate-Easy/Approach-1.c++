@@ -1,6 +1,8 @@
 /* 
     Contains Duplicate: https://neetcode.io/problems/duplicate-integer?list=neetcode250
 
+	* This is the brute force approach
+
     Steps
     1. Start with the first element `i`
     2. Compare it with every element after it `j`
@@ -15,6 +17,10 @@
 
     Time Complexity: O(n^2)
     Space Complexity: O(1)
+
+	Example:
+	Input: nums = [1,2,3,1]
+	Output: true
 */
 
 #include <iostream>

@@ -1,6 +1,8 @@
 /*
 	Concatenation of Array: https://neetcode.io/problems/concatenation-of-array?list=neetcode250
 
+	* This is the brute force approach
+
 	Steps
 	1. Create an empty array called `ans`
 	2. For each element in `nums`:
@@ -14,6 +16,10 @@
 
 	Time Complexity: O(n)
 	Space Complexity: O(n)
+
+	Example:
+	Input: nums = [1,2,1]
+	Output: [1,2,1,1,2,1]
 */
 
 #include <iostream>
